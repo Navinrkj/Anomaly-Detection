@@ -2,6 +2,7 @@
 Detection of inconsistencies between rating and review for Amazon products.
 
 The review and rating are crucial in the performance of a product in a website. 
+
 1 review results in 10% higher sales. 
 Each rating is important for the average rating. 
 Sometimes people mistake 1 star as the best or 5 stars as the worst. Maybe by mistake they had given a good review but a bad rating and vice versa.
